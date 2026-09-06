@@ -7,7 +7,7 @@ local mouse = player:GetMouse()
 -- CONFIGURAÇÃO DA MIRA
 -- =========================================================
 
-local WHITE_CROSSHAIR = "rbxassetid://105214846757174"
+local WHITE_CROSSHAIR = "rbxassetid://94429300016669"
 local TARGET_TOOL_NAME = "Gun"
 
 local ATIVADO = false -- A mira liga sozinha ao pegar a arma
